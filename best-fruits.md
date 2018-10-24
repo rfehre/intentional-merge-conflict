@@ -2,6 +2,6 @@
 ##( in order )
 
 1. Mango
-2. Strawberries
+2. Blueberries
 3. Cherries
-4. Avocado 
+4. Avocado
